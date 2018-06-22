@@ -564,11 +564,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: WinMRPaint
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: G:\Git\GitHub\WinMRPaint\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 802080898328d501
   metroApplicationDescription: WinMRPaint
   wsaImages: {}
   metroTileShortName: 
